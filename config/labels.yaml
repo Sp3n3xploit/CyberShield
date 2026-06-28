@@ -1,0 +1,12 @@
+ip:
+  row: 4
+  text: "IP :"
+malware:
+  row: 0
+  text: "MALWARE :"
+proxy:
+  row: 6
+  text: "PROXY :"
+url:
+  row: 2
+  text: "URL :"

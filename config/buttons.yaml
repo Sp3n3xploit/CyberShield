@@ -1,0 +1,43 @@
+_header_defaults: &header_defaults
+  bg_color: "#242424"
+  border_spacing: 0
+  border_width: 0
+  corner_radius: 0
+  fg_color: "#242424"
+  height: 30
+  hover_color: "#242424"
+  row: 0
+  text: ""
+  width: 30
+
+_button_defaults: &button_defaults
+  bg_color: "transparent"
+  border_spacing: 5
+  border_width: 2
+  compound: "right"
+  corner_radius: 50
+  fg_color: "#565B5E"
+  height: 40
+  hover_color: "#696969"
+  width: 160
+
+abuse_ipdb:
+  <<: *button_defaults
+  row: 5
+  text: "AbuseIPDB"
+contact:
+  <<: *header_defaults
+github:
+  <<: *header_defaults
+mitm_proxy:
+  <<: *button_defaults
+  row: 7
+  text: "MITMProxy"
+url_scan:
+  <<: *button_defaults
+  row: 3
+  text: "URLScan"
+virus_total:
+  <<: *button_defaults
+  row: 1
+  text: "VirusTotal"

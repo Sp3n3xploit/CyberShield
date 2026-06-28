@@ -1,0 +1,8 @@
+abuse_ipdb: "resources/assets/icons/abuse_ipdb.ico"
+app_icon: "resources/assets/icons/app.ico"
+contact: "resources/assets/icons/contact.ico"
+mitm_proxy: "resources/assets/icons/mitm_proxy.ico"
+upload: "resources/assets/icons/upload.ico"
+url_scan: "resources/assets/icons/url_scan.ico"
+virus_total: "resources/assets/icons/virus_total.ico"
+github: "resources/assets/icons/github.ico"

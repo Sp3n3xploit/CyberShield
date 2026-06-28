@@ -1,0 +1,7 @@
+textbox:
+  border_color: "#565B5E"
+  border_width: 5
+  corner_radius: 25
+  fg_color: "#1D1E1E"
+  height: 345
+  width: 620
